@@ -14,7 +14,7 @@ I'm a 20 year old developer. I love coding and figuring out how to solve deep pr
 * ⚡  I love sports and my favorite is gym
 
 <a href="https://www.github.com/mah-andrade" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
+src="https://img.shields.io/github/followers/mah-andrade?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
 
 ### Skills
 <img align ="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
