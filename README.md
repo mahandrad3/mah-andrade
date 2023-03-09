@@ -1,7 +1,7 @@
 Hi 👋 My name is Matheus
 ==========================
 
-Mobile Developer 
+Java Developer
 -----------------------------
 
 I'm a 20 year old developer. I love coding and figuring out how to solve deep problems using cutting-edge technology. My main focus is java development, making applications that impact the lives of thousands of users.
