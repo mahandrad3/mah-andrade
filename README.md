@@ -4,7 +4,7 @@ Hi 👋 My name is Matheus
 Mobile Developer 
 -----------------------------
 
-I'm a 20 year old developer. I love coding and figuring out how to solve deep problems using cutting-edge technology. My main focus is mobile development, making applications that impact the lives of thousands of users.
+I'm a 20 year old developer. I love coding and figuring out how to solve deep problems using cutting-edge technology. My main focus is java development, making applications that impact the lives of thousands of users.
 
 
 * 🌍  I'm based in São Paulo, Brazil
