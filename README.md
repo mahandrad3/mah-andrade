@@ -9,7 +9,7 @@ I'm a 20 year old developer. I love coding and figuring out how to solve deep pr
 
 * 🌍  I'm based in São Paulo, Brazil
 * ✉️  You can contact me at [mahandradesantos.01@gmail.com](mailto:mahandradesantos.01@gmail.com)
-* 🧠  I'm learning Kotlin, Unit Tests.
+* 🧠  I'm learning Spring framework.
 * ⚡  I love sports and my favorite is gym
 
 <a href="https://www.github.com/mah-andrade" target="_blank" rel="noreferrer"><img
